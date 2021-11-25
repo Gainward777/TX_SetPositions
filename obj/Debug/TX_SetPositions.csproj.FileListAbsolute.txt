@@ -1,0 +1,13 @@
+D:\Plugins Renga\TX_SetPositions\TX_SetPositions\obj\Debug\TX_SetPositions.csprojAssemblyReference.cache
+D:\Plugins Renga\TX_SetPositions\TX_SetPositions\obj\Debug\Interop.Renga.dll
+D:\Plugins Renga\TX_SetPositions\TX_SetPositions\obj\Debug\TX_SetPositions.csproj.ResolveComReference.cache
+D:\Plugins Renga\TX_SetPositions\TX_SetPositions\obj\Debug\TX_SetPositions.Properties.Resources.resources
+D:\Plugins Renga\TX_SetPositions\TX_SetPositions\obj\Debug\TX_SetPositions.csproj.GenerateResource.cache
+D:\Plugins Renga\TX_SetPositions\TX_SetPositions\obj\Debug\TX_SetPositions.csproj.CoreCompileInputs.cache
+D:\Plugins Renga\TX_SetPositions\TX_SetPositions\bin\Debug\TX_SetPositions.dll.config
+D:\Plugins Renga\TX_SetPositions\TX_SetPositions\bin\Debug\TX_SetPositions.dll
+D:\Plugins Renga\TX_SetPositions\TX_SetPositions\bin\Debug\TX_SetPositions.pdb
+D:\Plugins Renga\TX_SetPositions\TX_SetPositions\bin\Debug\Renga.NET.PluginUtility.dll
+D:\Plugins Renga\TX_SetPositions\TX_SetPositions\obj\Debug\TX_SetPositions.csproj.CopyComplete
+D:\Plugins Renga\TX_SetPositions\TX_SetPositions\obj\Debug\TX_SetPositions.dll
+D:\Plugins Renga\TX_SetPositions\TX_SetPositions\obj\Debug\TX_SetPositions.pdb
